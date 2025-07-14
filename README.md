@@ -213,35 +213,11 @@ curl http://localhost:8000/api/stats
    - Adjust mining difficulty
    - Add new API endpoints
 
-### Assignment Deliverables Checklist
 
-- ✅ **Source code with documentation**: All files created and documented
-- ✅ **Blockchain implementation**: Complete with PoW mining
-- ✅ **P2P network simulation**: Multiple nodes with peer discovery
-- ✅ **Consensus algorithm**: Longest chain wins implementation
-- ✅ **Node synchronization**: Peers can sync blockchains
-- ✅ **Professional UI**: Modern web interface with all operations
-- ✅ **README file**: Comprehensive documentation
-- ✅ **Screenshots/logs**: Available through web interface
-- ✅ **Bonus features**: HTML frontend, dashboard, transaction validation
 
-### Performance Monitoring
 
-Monitor your network with:
-- Real-time statistics on dashboard
-- Browser developer tools for network requests
-- Terminal output for mining logs
-- API endpoints for programmatic monitoring
 
-### Next Steps
 
-After completing the basic assignment, consider:
-1. Adding digital signatures
-2. Implementing transaction fees
-3. Creating a mobile-responsive design
-4. Adding WebSocket for real-time updates
-5. Implementing different consensus algorithms
-6. Adding data persistence
 
 ## Conclusion
 
